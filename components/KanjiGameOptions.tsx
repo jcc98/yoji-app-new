@@ -2,7 +2,7 @@ import React from 'react'
 
 const KanjiGameOptions = () => {
     return (
-        <div className="overflow-hidden h-screen  p-5  flex justify-center content-center flex-col flex-wrap ">
+        <div className="overflow-hidden h-screen p-5 flex justify-center content-center flex-col flex-wrap ">
             <div>
                 <label >Select level</label>
                 <select name="select-level" id="select-level" className="w-full rounded py-2">
